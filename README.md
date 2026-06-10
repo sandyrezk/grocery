@@ -2,7 +2,7 @@
 
 > A full-featured RESTful API for a modern grocery delivery mobile app, built with Node.js, Express, and MongoDB.
 
----ظ
+---
 
 ## ✨ Overview
 
@@ -281,5 +281,4 @@ GET /api/health
 
 ## 👩‍💻 Author
 
-Built with ❤️ as part of the Grocery Plus mobile app project. 
- 
+Built with ❤️ as part of the Grocery Plus mobile app project.
